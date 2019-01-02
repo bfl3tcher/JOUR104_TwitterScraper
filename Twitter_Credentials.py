@@ -1,9 +1,4 @@
-# BFletcher Twitter Credentials for API get requests
-
-'''
-Removed data for privacy reasons
-Insert Twitter API keys as labeled below
-'''
+# Insert relevant credentials here
 
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
