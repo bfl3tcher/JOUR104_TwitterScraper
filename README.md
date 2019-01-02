@@ -10,7 +10,9 @@
 * Phase 1 - Research Scope
     * Scrape Tweets including #CSULB104
     * Examine student/tweet sentiment, tweet frequency, and patterns in time posted or the subject of the week
-* Role - Principle Researcher/Data Scientist
+* Role - 
+   * Brandon Fletcher
+   * Principle Researcher/Data Scientist
 
 **Project Goals**
 * <b>Objective - Analyze J104 tweets to establish baseline understanding of student tweet behavior and sentiment</b>
