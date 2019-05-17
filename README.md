@@ -1,7 +1,7 @@
-# J140_TwitterScraper
+# J104_TwitterScraper
 
 # Project Introduction
-# Download "J140-TwitterAnalysis-Fall_2018.html", and open the HTML file in your browser to review the Fall 2018 results of the study/project.
+# Download "J104-TwitterAnalysis-Fall_2018.html", and open the HTML file in your browser to review the Fall 2018 results of the study/project.
 
 **Project Outline**
 * CSULB J104 - Student Twitter Engagement
