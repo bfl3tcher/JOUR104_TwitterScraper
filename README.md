@@ -1,11 +1,11 @@
-# J104_TwitterScraper
+# JOUR104_TwitterScraper
 
 # Project Introduction
-# Download "J104-TwitterAnalysis-Fall_2018.html", and open the HTML file in your browser to review the Fall 2018 results of the study/project.
+# Download "JOUR104-TwitterAnalysis-Fall_2018.html", and open the HTML file in your browser to review the Fall 2018 results of the study/project.
 
 **Project Outline**
-* CSULB J104 - Student Twitter Engagement
-    * <u>CSULB - J104</u> - Social Media Communication
+* CSULB JOUR104 - Student Twitter Engagement
+    * <u>CSULB - JOUR104</u> - Social Media Communication
     * <u>Professor Kehoe</u>
     * Assignment - <i>Students tweet twice per week, and must include #CSULB104</i>
 * Phase 1 - Research Scope
@@ -16,7 +16,7 @@
    * Principle Researcher/Data Scientist
 
 **Project Goals**
-* <b>Objective - Analyze J104 tweets to establish baseline understanding of student tweet behavior and sentiment</b>
+* <b>Objective - Analyze JOUR104 tweets to establish baseline understanding of student tweet behavior and sentiment</b>
 * Research Tools - 
     * Twitter Scraping - Twython
     * Data Processing - pandas/numpy
